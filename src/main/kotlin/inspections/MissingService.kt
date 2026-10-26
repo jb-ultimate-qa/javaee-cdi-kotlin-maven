@@ -1,0 +1,3 @@
+package inspections
+
+interface MissingService
